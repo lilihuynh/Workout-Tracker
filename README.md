@@ -1,6 +1,6 @@
 # Workout-Tracker
 
-Project link: [project page](ttps://guarded-gorge-16936.herokuapp.com/)
+Project link: [project page](https://guarded-gorge-16936.herokuapp.com/)
 
 Github-page: [github-pages](https://github.com/lillianhuynh/Workout-Tracker)
 
@@ -77,4 +77,4 @@ N/A
 
 Lili Huynh- lillianhuynh312@gmail.com
 
-Project Link: [ttps://guarded-gorge-16936.herokuapp.com/](ttps://guarded-gorge-16936.herokuapp.com/)
+Project Link: [https://guarded-gorge-16936.herokuapp.com/](ttps://guarded-gorge-16936.herokuapp.com/)
